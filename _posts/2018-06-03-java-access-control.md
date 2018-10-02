@@ -42,6 +42,10 @@ If you want to access a class/interface, you can do it:
 
 Easy, isn't it? I'm going to show you an example.
 
+```sql
+SELECT * FROM TABELA Where nome = 'Denis'
+```
+
 ```java
 package client;
 import server.Server;
